@@ -1,0 +1,1795 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2011.10.10)  17 APR 2012 11:31
+entering extended mode
+**thesis.tex
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\thesis.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\epsf\epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+\epsffilein=\read1
+\epsfframemargin=\dimen103
+\epsfframethickness=\dimen104
+\epsfrsize=\dimen105
+\epsftmp=\dimen106
+\epsftsize=\dimen107
+\epsfxsize=\dimen108
+\epsfysize=\dimen109
+\pspoints=\dimen110
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen113
+\epsfysize=\dimen114
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
+\wrapoverhang=\dimen115
+\WF@size=\dimen116
+\c@WF@wrappedlines=\count89
+\WF@box=\box26
+\WF@everypar=\toks16
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\base\glossaries.s
+ty
+Package: glossaries 2011/04/12 v3.01 (NLCT)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+\XKV@depth=\count90
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+))
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\base\mfirstuc.sty
+Package: mfirstuc 2011/04/02 v1.05 (NLCT)
+\@glsmfirst=\toks19
+\@glsmrest=\toks20
+) (C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen117
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count91
+)
+\etb@tempcnta=\count92
+)
+\gls@level=\count93
+\@gls@tmpb=\toks22
+\gls@tmplen=\skip43
+\glswrite=\write3
+\glskeylisttok=\toks23
+\glslabeltok=\toks24
+\glsshorttok=\toks25
+\glslongtok=\toks26
+
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-h
+ypernav.sty
+Package: glossary-hypernav 2007/07/04 v1.01 (NLCT)
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-l
+ist.sty
+Package: glossary-list 2011/03/28 v3.0 (NLCT)
+\glslistdottedwidth=\skip44
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-l
+ong.sty
+Package: glossary-long 2011/03/28 v3.0 (NLCT)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip45
+\LTright=\skip46
+\LTpre=\skip47
+\LTpost=\skip48
+\LTchunksize=\count94
+\LTcapwidth=\dimen118
+\LT@head=\box27
+\LT@firsthead=\box28
+\LT@foot=\box29
+\LT@lastfoot=\box30
+\LT@cols=\count95
+\LT@rows=\count96
+\c@LT@tables=\count97
+\c@LT@chunks=\count98
+\LT@p@ftn=\toks27
+)
+\glsdescwidth=\skip49
+\glspagelistwidth=\skip50
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-s
+uper.sty
+Package: glossary-super 2011/03/28 v3.0 (NLCT)
+
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\supertabular\supertabular.st
+y
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count99
+\ST@wd=\dimen119
+\ST@rightskip=\skip51
+\ST@leftskip=\skip52
+\ST@parfillskip=\skip53
+\ST@pageleft=\dimen120
+\ST@headht=\dimen121
+\ST@tailht=\dimen122
+\ST@pagesofar=\dimen123
+\ST@pboxht=\dimen124
+\ST@lineht=\dimen125
+\ST@stretchht=\dimen126
+\ST@prevht=\dimen127
+\ST@toadd=\dimen128
+\ST@dimen=\dimen129
+\ST@pbox=\box31
+))
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-t
+ree.sty
+Package: glossary-tree 2011/03/28 v3.0 (NLCT)
+\glstreeindent=\skip54
+)) ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\spanish.ldf"
+Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count100
+\U@D=\dimen130
+)
+\es@datefmt=\count101
+\es@quottoks=\toks28
+\es@quotdepth=\count102
+Package babel Info: Making " an active character on input line 492.
+Package babel Info: Making . an active character on input line 585.
+Package babel Info: Making < an active character on input line 630.
+Package babel Info: Making > an active character on input line 630.
+Package babel Info: Making ' an active character on input line 657.
+))
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\translator\trans
+lator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\translator\trans
+lator-language-mappings.tex))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks29
+\inpenc@posthook=\toks30
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen131
+\extrarowheight=\dimen132
+\NC@list=\toks31
+\extratabsurround=\skip55
+\backup@length=\skip56
+)
+\everycr=\toks32
+\minrowclearance=\skip57
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen133
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2011/08/18 v3.2b Customizing captions (AR)
+
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2011/08/18 v1.3b caption3 kernel (AR)
+\captionmargin=\dimen134
+\captionmargin@=\dimen135
+\captionwidth=\dimen136
+\caption@indent=\dimen137
+\caption@parindent=\dimen138
+\caption@hangindent=\dimen139
+)
+\c@ContinuedFloat=\count103
+Package caption Info: longtable package is loaded.
+
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
+Package: ltcaption 2011/01/01 v1.2a longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+\c@KVtest=\count104
+\sf@farskip=\skip58
+\sf@captopadj=\dimen140
+\sf@capskip=\skip59
+\sf@nearskip=\skip60
+\c@subfigure=\count105
+\c@subfigure@save=\count106
+\c@lofdepth=\count107
+\c@subtable=\count108
+\c@subtable@save=\count109
+\c@lotdepth=\count110
+\sf@top=\skip61
+\sf@bottom=\skip62
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.def"
+File: ot1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding OT1 on input line 43.
+))
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\tocbibind\tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\anysize.sty"
+Package: anysize 1994/08/13 1.0 Contributed LaTeX2e package
+
+Package: `anysize' 1.0 <1994/08/13>
+\@Leftmargin=\dimen141
+\@Rightmargin=\dimen142
+\@Topmargin=\dimen143
+\@Bottommargin=\dimen144
+) (C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count111
+\lst@gtempboxa=\box32
+\lst@token=\toks33
+\lst@length=\count112
+\lst@currlwidth=\dimen145
+\lst@column=\count113
+\lst@pos=\count114
+\lst@lostspace=\dimen146
+\lst@width=\dimen147
+\lst@newlines=\count115
+\lst@lineno=\count116
+\lst@maxwidth=\dimen148
+
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count117
+\lst@skipnumbers=\count118
+\lst@framebox=\box33
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+\rownum=\count119
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\classes\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks34
+\thm@bodyfont=\toks35
+\thm@headfont=\toks36
+\thm@notefont=\toks37
+\thm@headpunct=\toks38
+\thm@preskip=\skip63
+\thm@postskip=\skip64
+\thm@headsep=\skip65
+\dth@everypar=\toks39
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip66
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen149
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count120
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count121
+\leftroot@=\count122
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count123
+\DOTSCASE@=\count124
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box34
+\strutbox@=\box35
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count125
+\c@MaxMatrixCols=\count126
+\dotsspace@=\muskip11
+\c@parentequation=\count127
+\dspbrk@lvl=\count128
+\tag@help=\toks40
+\row@=\count129
+\column@=\count130
+\maxfields@=\count131
+\andhelp@=\toks41
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks42
+\multlinegap=\skip67
+\multlinetaggap=\skip68
+\mathdisplay@stack=\toks43
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip69
+\f@ncyO@elh=\skip70
+\f@ncyO@erh=\skip71
+\f@ncyO@olh=\skip72
+\f@ncyO@orh=\skip73
+\f@ncyO@elf=\skip74
+\f@ncyO@erf=\skip75
+\f@ncyO@olf=\skip76
+\f@ncyO@orf=\skip77
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyvrb\fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count132
+\FV@InFile=\read2
+\FV@TabBox=\box36
+\c@FancyVerbLine=\count133
+\FV@StepNumber=\count134
+\FV@OutFile=\write4
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write5
+
+Writing index file thesis.idx
+\c@definicion=\count135
+\c@teorema=\count136
+\c@lema=\count137
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2011/08/19 v6.82h Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+)
+\@linkdim=\dimen157
+\Hy@linkcounter=\count138
+\Hy@pagecounter=\count139
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2011/08/19 v6.82h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count140
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4053.
+Package hyperref Info: Link nesting OFF on input line 4058.
+Package hyperref Info: Hyper index ON on input line 4061.
+Package hyperref Info: Plain pages OFF on input line 4068.
+Package hyperref Info: Backreferencing OFF on input line 4073.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4291.
+\c@Hy@tempcnt=\count141
+LaTeX Info: Redefining \url on input line 4644.
+\Fld@menulength=\count142
+\Field@Width=\dimen158
+\Fld@charsize=\dimen159
+Package hyperref Info: Hyper figures OFF on input line 5730.
+Package hyperref Info: Link nesting OFF on input line 5735.
+Package hyperref Info: Hyper index ON on input line 5738.
+Package hyperref Info: backreferencing OFF on input line 5745.
+Package hyperref Info: Link coloring OFF on input line 5750.
+Package hyperref Info: Link coloring with OCG OFF on input line 5755.
+Package hyperref Info: PDF/A mode OFF on input line 5760.
+LaTeX Info: Redefining \ref on input line 5800.
+LaTeX Info: Redefining \pageref on input line 5804.
+\Hy@abspage=\count143
+\c@Item=\count144
+\c@Hfootnote=\count145
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2011/08/19 v6.82h Hyperref driver for pdfTeX
+\Fld@listcount=\count146
+\c@bookmark@seq@number=\count147
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip78
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 76.
+\glo@main@file=\write6
+Package glossaries Info: Writing glossary file thesis.glo on input line 79.
+
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\glossary.tex")
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\textpos\textpos.sty
+Package: textpos 2010/09/30 v1.7g
+
+Package: `textpos' 1.7g <2010 September 30>
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)
+\TP@textbox=\box37
+\TP@holdbox=\box38
+\TPHorizModule=\dimen160
+\TPVertModule=\dimen161
+\TP@margin=\dimen162
+\TP@absmargin=\dimen163
+
+Grid set 16 x 16 = 38.39343pt x 49.68562pt
+\TPboxrulesize=\dimen164
+\TP@ox=\dimen165
+\TP@oy=\dimen166
+\TP@tbargs=\toks44
+\TP@prevdepth=\dimen167
+TextBlockOrigin set to 0pt x 0pt
+) (C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+)
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\thesis.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+
+(C:\Users\adn\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count148
+\scratchdimen=\dimen168
+\scratchbox=\box39
+\nofMPsegments=\count149
+\nofMParguments=\count150
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count151
+\MPscratchDim=\dimen169
+\MPnumerator=\count152
+\makeMPintoPDFobject=\count153
+\everyMPtoPDFconversion=\toks46
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package 1.2 or 1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count154
+\AtBeginShipoutBox=\box40
+Package hyperref Info: Link coloring ON on input line 106.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count155
+)
+LaTeX Info: Redefining \ref on input line 106.
+LaTeX Info: Redefining \pageref on input line 106.
+LaTeX Info: Redefining \nameref on input line 106.
+
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\thesis.out")
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\thesis.out")
+\@outlinefile=\write7
+
+ABD: EveryShipout initializing macros
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\caratula.tex"
+<figures/cebolla.png, id=239, 236.885pt x 162.6075pt>
+File: figures/cebolla.png Graphic file (type png)
+
+<use figures/cebolla.png>
+Package pdftex.def Info: figures/cebolla.png used on input line 12.
+(pdftex.def)             Requested size: 118.4422pt x 81.30354pt.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 17.
+
+LaTeX Font Info:    Try loading font information for U+lasy on input line 52.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 52.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 52.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+{C:/Users/adn/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/My Documen
+ts D/Documents/Pasantia/Memoria-Latex/figures/cebolla.png (PNG copy)>])
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\title.tex"
+File: figures/cebolla.png Graphic file (type png)
+
+<use figures/cebolla.png>
+Package pdftex.def Info: figures/cebolla.png used on input line 8.
+(pdftex.def)             Requested size: 118.4422pt x 81.30354pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.72 \end{titlepage}
+                     [1])
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\acta.tex"
+<acta0001.png, id=251, 467.5869pt x 613.5723pt>
+File: acta0001.png Graphic file (type png)
+ <use acta0001.png>
+Package pdftex.def Info: acta0001.png used on input line 75.
+(pdftex.def)             Requested size: 472.03123pt x 619.43161pt.
+
+
+LaTeX Warning: Float too large for page by 8.27263pt on input line 76.
+
+) ("D:\My Documents D\Documents\Pasantia\Memoria-Latex\resumen.tex" [4 <D:/My D
+ocuments D/Documents/Pasantia/Memoria-Latex/acta0001.png (PNG copy)>] [5
+
+])
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\dedicatoria.tex"pdfTeX war
+ning (ext4): destination with the same identifier (name{page.V}) has been alrea
+dy used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.10 \newpage
+              [5])
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\thesis.toc"
+
+Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
+(spanish)                faked small caps on input line 2.
+
+
+Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
+(spanish)                faked small caps on input line 3.
+
+
+Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
+(spanish)                faked small caps on input line 4.
+
+
+Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
+(spanish)                faked small caps on input line 5.
+
+[6
+
+] [7])
+\tf@toc=\write8
+ [8] ("D:\My Documents D\Documents\Pasantia\Memoria-Latex\thesis.lot")
+\tf@lot=\write9
+
+[9
+
+] ("D:\My Documents D\Documents\Pasantia\Memoria-Latex\thesis.lof" [10
+
+]
+[11])
+\tf@lof=\write10
+ ("D:\My Documents D\Documents\Pasantia\Memoria-Latex\thesis.gls" [12]
+[13
+
+
+] [14] [15]) [16]
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\intro.tex"pdfTeX warning (
+ext4): destination with the same identifier (name{page.1}) has been already use
+d, duplicate ignored
+<to be read again> 
+                   \relax 
+l.26 L
+      as acciones involucradas en la conducción de un automóvil pueden ser...
+[1
+
+
+] [2]) ("D:\My Documents D\Documents\Pasantia\Memoria-Latex\c1CSIC.tex"
+[3]
+Cap\'{\i }tulo 1.
+[4
+
+]) ("D:\My Documents D\Documents\Pasantia\Memoria-Latex\c2MarcoTeorico.tex"
+[5]
+Cap\'{\i }tulo 2.
+[6
+
+] <figures/conjunto_difuso.png, id=566, 1039.885pt x 413.545pt>
+File: figures/conjunto_difuso.png Graphic file (type png)
+
+<use figures/conjunto_difuso.png>
+Package pdftex.def Info: figures/conjunto_difuso.png used on input line 27.
+(pdftex.def)             Requested size: 259.6186pt x 103.24084pt.
+
+<figures/fpertenencia.png, id=568, 1077.02374pt x 421.575pt>
+File: figures/fpertenencia.png Graphic file (type png)
+
+<use figures/fpertenencia.png>
+Package pdftex.def Info: figures/fpertenencia.png used on input line 38.
+(pdftex.def)             Requested size: 259.6186pt x 101.61748pt.
+ [7 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/conjunto_difuso
+.png (PNG copy)>]
+<figures/sistemad.png, id=574, 709.65125pt x 353.32pt>
+File: figures/sistemad.png Graphic file (type png)
+
+<use figures/sistemad.png>
+Package pdftex.def Info: figures/sistemad.png used on input line 63.
+(pdftex.def)             Requested size: 330.42041pt x 164.51314pt.
+ [8 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/fpertenencia.pn
+g (PNG copy)>] [9 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/s
+istemad.png (PNG copy)>] [10] [11] [12]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 183.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 183.
+ [13]
+<figures/zoco.png, id=617, 1003.75pt x 501.875pt>
+File: figures/zoco.png Graphic file (type png)
+ <use figures/zoco.png>
+Package pdftex.def Info: figures/zoco.png used on input line 212.
+(pdftex.def)             Requested size: 236.01561pt x 118.00189pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14] <figures/platero.png, id=638, 274.77657pt x 174.6525pt>
+File: figures/platero.png Graphic file (type png)
+
+<use figures/platero.png>
+Package pdftex.def Info: figures/platero.png used on input line 232.
+(pdftex.def)             Requested size: 212.4126pt x 135.01582pt.
+ <figures/maletero.jpg, id=639, 1284.8pt x 963.6pt>
+File: figures/maletero.jpg Graphic file (type jpg)
+
+<use figures/maletero.jpg>
+Package pdftex.def Info: figures/maletero.jpg used on input line 238.
+(pdftex.def)             Requested size: 212.4126pt x 159.29591pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 230--242
+[][] [] 
+ []
+
+[15 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/zoco.png (PNG c
+opy)>] [16 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/platero.
+png> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/maletero.jpg>]
+<figures/torcs_screenshot3.jpg, id=655, 622.325pt x 466.74374pt>
+File: figures/torcs_screenshot3.jpg Graphic file (type jpg)
+
+<use figures/torcs_screenshot3.jpg>
+Package pdftex.def Info: figures/torcs_screenshot3.jpg used on input line 260.
+(pdftex.def)             Requested size: 165.2102pt x 123.90727pt.
+
+<figures/torcs3.jpg, id=656, 1027.84pt x 767.86874pt>
+File: figures/torcs3.jpg Graphic file (type jpg)
+ <use figures/torcs3.jpg>
+Package pdftex.def Info: figures/torcs3.jpg used on input line 264.
+(pdftex.def)             Requested size: 165.2102pt x 123.4239pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 258--266
+[][] [] 
+ []
+
+) ("D:\My Documents D\Documents\Pasantia\Memoria-Latex\c3Descripcion.tex"
+[17 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/torcs_screensho
+t3.jpg> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/torcs3.jpg>
+]
+Cap\'{\i }tulo 3.
+[18
+
+] [19]) ("D:\My Documents D\Documents\Pasantia\Memoria-Latex\c4Desarrollo.tex" 
+[20]
+Cap\'{\i }tulo 4.
+[21
+
+] <figures/Diseno.png, id=696, 490.08093pt x 179.92218pt>
+File: figures/Diseno.png Graphic file (type png)
+
+<use figures/Diseno.png>
+Package pdftex.def Info: figures/Diseno.png used on input line 17.
+(pdftex.def)             Requested size: 283.22162pt x 103.98155pt.
+ [22 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/Diseno.png>] [
+23]
+<figures/EsquemaLocal.png, id=712, 519.44063pt x 606.01407pt>
+File: figures/EsquemaLocal.png Graphic file (type png)
+
+<use figures/EsquemaLocal.png>
+Package pdftex.def Info: figures/EsquemaLocal.png used on input line 134.
+(pdftex.def)             Requested size: 354.0234pt x 284.53075pt.
+ [24 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/EsquemaLocal.p
+ng>]
+<figures/tresC.png, id=717, 994.71625pt x 391.4625pt>
+File: figures/tresC.png Graphic file (type png)
+ <use figures/tresC.png>
+Package pdftex.def Info: figures/tresC.png used on input line 157.
+(pdftex.def)             Requested size: 283.22162pt x 111.46045pt.
+
+[25 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/tresC.png (PNG 
+copy)>] <figures/421single1.png, id=725, 929.4725pt x 375.4025pt>
+File: figures/421single1.png Graphic file (type png)
+
+<use figures/421single1.png>
+Package pdftex.def Info: figures/421single1.png used on input line 205.
+(pdftex.def)             Requested size: 236.01561pt x 95.32253pt.
+
+<figures/421single2.png, id=726, 929.4725pt x 375.4025pt>
+File: figures/421single2.png Graphic file (type png)
+
+<use figures/421single2.png>
+Package pdftex.def Info: figures/421single2.png used on input line 205.
+(pdftex.def)             Requested size: 236.01561pt x 95.32253pt.
+ [26]
+<figures/loco100.png, id=733, 909.3975pt x 385.44pt>
+File: figures/loco100.png Graphic file (type png)
+ <use figures/loco100.png>
+Package pdftex.def Info: figures/loco100.png used on input line 218.
+(pdftex.def)             Requested size: 283.22162pt x 120.03801pt.
+
+[27 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/421single1.png 
+(PNG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/421sing
+le2.png (PNG copy)>]
+<figures/buenoCtte100.png, id=741, 902.37125pt x 373.395pt>
+File: figures/buenoCtte100.png Graphic file (type png)
+
+<use figures/buenoCtte100.png>
+Package pdftex.def Info: figures/buenoCtte100.png used on input line 232.
+(pdftex.def)             Requested size: 283.22162pt x 117.19843pt.
+ [28 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/loco100.png (P
+NG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/buenoCtte
+100.png (PNG copy)>]
+<figures/2.png, id=747, 969.6225pt x 376.40625pt>
+File: figures/2.png Graphic file (type png)
+ <use figures/2.png>
+Package pdftex.def Info: figures/2.png used on input line 247.
+(pdftex.def)             Requested size: 165.2138pt x 64.13179pt.
+
+<figures/3.png, id=748, 969.6225pt x 376.40625pt>
+File: figures/3.png Graphic file (type png)
+ <use figures/3.png>
+Package pdftex.def Info: figures/3.png used on input line 247.
+(pdftex.def)             Requested size: 165.2138pt x 64.13179pt.
+
+<figures/4.png, id=749, 969.6225pt x 376.40625pt>
+File: figures/4.png Graphic file (type png)
+ <use figures/4.png>
+Package pdftex.def Info: figures/4.png used on input line 248.
+(pdftex.def)             Requested size: 165.2138pt x 64.13179pt.
+
+<figures/5.png, id=750, 969.6225pt x 376.40625pt>
+File: figures/5.png Graphic file (type png)
+ <use figures/5.png>
+Package pdftex.def Info: figures/5.png used on input line 248.
+(pdftex.def)             Requested size: 165.2138pt x 64.13179pt.
+
+<figures/EsquemaGlobal.png, id=752, 692.5875pt x 776.9025pt>
+File: figures/EsquemaGlobal.png Graphic file (type png)
+
+<use figures/EsquemaGlobal.png>
+Package pdftex.def Info: figures/EsquemaGlobal.png used on input line 257.
+(pdftex.def)             Requested size: 354.02869pt x 284.53319pt.
+ [29 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/2.png (PNG cop
+y)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/3.png (PNG copy
+)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/4.png (PNG copy)
+> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/5.png (PNG copy)>
+] [30 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/EsquemaGlobal
+.png (PNG copy)>]
+<figures/label11.png, id=761, 752.8125pt x 344.28625pt>
+File: figures/label11.png Graphic file (type png)
+
+<use figures/label11.png>
+Package pdftex.def Info: figures/label11.png used on input line 277.
+(pdftex.def)             Requested size: 212.41261pt x 97.14021pt.
+
+<figures/label12.png, id=762, 743.77875pt x 344.28625pt>
+File: figures/label12.png Graphic file (type png)
+
+<use figures/label12.png>
+Package pdftex.def Info: figures/label12.png used on input line 277.
+(pdftex.def)             Requested size: 212.41261pt x 98.32222pt.
+
+<figures/label21.png, id=765, 797.98125pt x 344.28625pt>
+File: figures/label21.png Graphic file (type png)
+
+<use figures/label21.png>
+Package pdftex.def Info: figures/label21.png used on input line 295.
+(pdftex.def)             Requested size: 212.41261pt x 91.64517pt.
+ <figures/label22.png, id=766, 841.1425pt x 361.35pt>
+File: figures/label22.png Graphic file (type png)
+
+<use figures/label22.png>
+Package pdftex.def Info: figures/label22.png used on input line 295.
+(pdftex.def)             Requested size: 212.41261pt x 91.25255pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/label11.png (PN
+G copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/label12.pn
+g (PNG copy)>] <figures/frenaso.png, id=775, 920.43875pt x 364.36125pt>
+File: figures/frenaso.png Graphic file (type png)
+
+<use figures/frenaso.png>
+Package pdftex.def Info: figures/frenaso.png used on input line 320.
+(pdftex.def)             Requested size: 283.22162pt x 112.11685pt.
+ [32 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/label21.png (P
+NG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/label22.p
+ng (PNG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/fren
+aso.png (PNG copy)>]
+<figures/EsquemaAjustes.png, id=783, 797.98125pt x 796.9775pt>
+File: figures/EsquemaAjustes.png Graphic file (type png)
+
+<use figures/EsquemaAjustes.png>
+Package pdftex.def Info: figures/EsquemaAjustes.png used on input line 329.
+(pdftex.def)             Requested size: 401.23006pt x 284.52814pt.
+ [33 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/EsquemaAjustes
+.png (PNG copy)>] [34]
+<figures/freno4c.png, id=804, 920.43875pt x 372.39125pt>
+File: figures/freno4c.png Graphic file (type png)
+
+<use figures/freno4c.png>
+Package pdftex.def Info: figures/freno4c.png used on input line 420.
+(pdftex.def)             Requested size: 283.22162pt x 114.58775pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35] [36 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/freno4c.pn
+g (PNG copy)>] <figures/pedal002.png, id=817, 1018.80624pt x 395.4775pt>
+File: figures/pedal002.png Graphic file (type png)
+
+<use figures/pedal002.png>
+Package pdftex.def Info: figures/pedal002.png used on input line 444.
+(pdftex.def)             Requested size: 283.22162pt x 109.94241pt.
+
+<figures/pedalCtte.png, id=820, 930.47626pt x 406.51875pt>
+File: figures/pedalCtte.png Graphic file (type png)
+
+<use figures/pedalCtte.png>
+Package pdftex.def Info: figures/pedalCtte.png used on input line 458.
+(pdftex.def)             Requested size: 236.01561pt x 103.11194pt.
+
+<figures/aceCtte.png, id=821, 905.3825pt x 414.54875pt>
+File: figures/aceCtte.png Graphic file (type png)
+
+<use figures/aceCtte.png>
+Package pdftex.def Info: figures/aceCtte.png used on input line 458.
+(pdftex.def)             Requested size: 236.01561pt x 108.06477pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/pedal002.png (P
+NG copy)>] <figures/acelFinal.png, id=826, 920.43875pt x 365.365pt>
+File: figures/acelFinal.png Graphic file (type png)
+
+<use figures/acelFinal.png>
+Package pdftex.def Info: figures/acelFinal.png used on input line 467.
+(pdftex.def)             Requested size: 283.22162pt x 112.42572pt.
+ [38 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/pedalCtte.png 
+(PNG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/aceCtte
+.png (PNG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/ac
+elFinal.png (PNG copy)>]
+<figures/singleFin.png, id=833, 929.4725pt x 375.4025pt>
+File: figures/singleFin.png Graphic file (type png)
+
+<use figures/singleFin.png>
+Package pdftex.def Info: figures/singleFin.png used on input line 479.
+(pdftex.def)             Requested size: 283.22162pt x 114.3859pt.
+
+<figures/velFin.png, id=834, 909.3975pt x 385.44pt>
+File: figures/velFin.png Graphic file (type png)
+ <use figures/velFin.png>
+Package pdftex.def Info: figures/velFin.png used on input line 487.
+(pdftex.def)             Requested size: 283.22162pt x 120.03801pt.
+)
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\c5Pruebas.tex" [39 <D:/My 
+Documents D/Documents/Pasantia/Memoria-Latex/figures/singleFin.png (PNG copy)> 
+<D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/velFin.png (PNG cop
+y)>]
+Cap\'{\i }tulo 5.
+[40
+
+]
+Overfull \hbox (2.80284pt too wide) in paragraph at lines 50--50
+[]|\OT1/cmr/bx/sc/12 Masa
+ []
+
+
+Overfull \hbox (3.84764pt too wide) in paragraph at lines 50--50
+[]|\OT1/cmr/bx/sc/12 Poder
+ []
+
+
+Overfull \hbox (10.2556pt too wide) in paragraph at lines 50--50
+[]|\OT1/cmr/bx/sc/12 Cx*A[][][][][]
+ []
+
+
+Overfull \hbox (2.38931pt too wide) in paragraph at lines 50--50
+[]|\OT1/cmr/bx/sc/12 Largo
+ []
+
+
+Overfull \hbox (3.42622pt too wide) in paragraph at lines 50--50
+[]|\OT1/cmr/bx/sc/12 Ancho
+ []
+
+<figures/acura.jpg, id=857, 291.0875pt x 154.5775pt>
+File: figures/acura.jpg Graphic file (type jpg)
+ <use figures/acura.jpg>
+Package pdftex.def Info: figures/acura.jpg used on input line 52.
+(pdftex.def)             Requested size: 58.21646pt x 30.91495pt.
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 52--52
+[]|$[]$| 
+ []
+
+<figures/bug.jpg, id=859, 261.97874pt x 156.585pt>
+File: figures/bug.jpg Graphic file (type jpg)
+ <use figures/bug.jpg>
+Package pdftex.def Info: figures/bug.jpg used on input line 54.
+(pdftex.def)             Requested size: 52.39482pt x 31.31644pt.
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 54--54
+[]|$[]$| 
+ []
+
+<figures/trb.jpg, id=860, 257.96375pt x 128.48pt>
+File: figures/trb.jpg Graphic file (type jpg)
+ <use figures/trb.jpg>
+Package pdftex.def Info: figures/trb.jpg used on input line 56.
+(pdftex.def)             Requested size: 51.59183pt x 25.69554pt.
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 56--56
+[]|$[]$| 
+ []
+
+<figures/f1.jpg, id=861, 272.01625pt x 124.465pt>
+File: figures/f1.jpg Graphic file (type jpg)
+ <use figures/f1.jpg>
+Package pdftex.def Info: figures/f1.jpg used on input line 58.
+(pdftex.def)             Requested size: 54.40228pt x 24.89255pt.
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 58--58
+[]|$[]$| 
+ []
+
+<figures/evo.jpg, id=862, 281.05pt x 140.525pt>
+File: figures/evo.jpg Graphic file (type jpg)
+ <use figures/evo.jpg>
+Package pdftex.def Info: figures/evo.jpg used on input line 60.
+(pdftex.def)             Requested size: 56.209pt x 28.10449pt.
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 60--60
+[]|$[]$| 
+ []
+
+<figures/306.jpg, id=864, 258.9675pt x 155.58125pt>
+File: figures/306.jpg Graphic file (type jpg)
+ <use figures/306.jpg>
+Package pdftex.def Info: figures/306.jpg used on input line 62.
+(pdftex.def)             Requested size: 51.79257pt x 31.11569pt.
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 62--62
+[]|$[]$| 
+ []
+
+<figures/corolla.jpg, id=865, 263.98625pt x 167.62625pt>
+File: figures/corolla.jpg Graphic file (type jpg)
+
+<use figures/corolla.jpg>
+Package pdftex.def Info: figures/corolla.jpg used on input line 64.
+(pdftex.def)             Requested size: 52.79631pt x 33.52464pt.
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 64--64
+[]|$[]$| 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[41] <figures/7cars.png, id=876, 983.675pt x 534.99875pt>
+File: figures/7cars.png Graphic file (type png)
+
+<use figures/7cars.png>
+Package pdftex.def Info: figures/7cars.png used on input line 80.
+(pdftex.def)             Requested size: 283.22162pt x 154.03543pt.
+ [42 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/acura.jpg> <D:
+/My Documents D/Documents/Pasantia/Memoria-Latex/figures/bug.jpg> <D:/My Docume
+nts D/Documents/Pasantia/Memoria-Latex/figures/trb.jpg> <D:/My Documents D/Docu
+ments/Pasantia/Memoria-Latex/figures/f1.jpg> <D:/My Documents D/Documents/Pasan
+tia/Memoria-Latex/figures/evo.jpg> <D:/My Documents D/Documents/Pasantia/Memori
+a-Latex/figures/306.jpg> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/fi
+gures/corolla.jpg>]
+<figures/31cars.png, id=885, 939.51pt x 390.45876pt>
+File: figures/31cars.png Graphic file (type png)
+ <use figures/31cars.png>
+Package pdftex.def Info: figures/31cars.png used on input line 87.
+(pdftex.def)             Requested size: 283.22162pt x 117.70453pt.
+
+[43 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/7cars.png (PNG 
+copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/31cars.png (
+PNG copy)>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/p0.png, id=895, 805.0075pt x 394.47375pt>
+File: figures/p0.png Graphic file (type png)
+ <use figures/p0.png>
+Package pdftex.def Info: figures/p0.png used on input line 145.
+(pdftex.def)             Requested size: 212.41261pt x 104.0836pt.
+
+<figures/p1.png, id=896, 805.0075pt x 394.47375pt>
+File: figures/p1.png Graphic file (type png)
+ <use figures/p1.png>
+Package pdftex.def Info: figures/p1.png used on input line 146.
+(pdftex.def)             Requested size: 212.41261pt x 104.0836pt.
+
+<figures/p2.png, id=897, 847.165pt x 366.36874pt>
+File: figures/p2.png Graphic file (type png)
+ <use figures/p2.png>
+Package pdftex.def Info: figures/p2.png used on input line 147.
+(pdftex.def)             Requested size: 212.41261pt x 91.86029pt.
+
+<figures/p3.png, id=898, 805.0075pt x 394.47375pt>
+File: figures/p3.png Graphic file (type png)
+ <use figures/p3.png>
+Package pdftex.def Info: figures/p3.png used on input line 148.
+(pdftex.def)             Requested size: 212.41261pt x 104.0836pt.
+
+<figures/p5.png, id=899, 635.37375pt x 274.77657pt>
+File: figures/p5.png Graphic file (type png)
+ <use figures/p5.png>
+Package pdftex.def Info: figures/p5.png used on input line 149.
+(pdftex.def)             Requested size: 212.41261pt x 91.85889pt.
+
+<figures/final15.png, id=901, 635.37375pt x 274.77657pt>
+File: figures/final15.png Graphic file (type png)
+
+<use figures/final15.png>
+Package pdftex.def Info: figures/final15.png used on input line 150.
+(pdftex.def)             Requested size: 212.41261pt x 91.85889pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[44] [45] [46 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/p0.pn
+g (PNG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/p1.pn
+g (PNG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/p2.pn
+g (PNG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/p3.pn
+g (PNG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/p5.pn
+g> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/final15.png>]
+<figures/manual.png, id=925, 771.88374pt x 359.3425pt>
+File: figures/manual.png Graphic file (type png)
+
+<use figures/manual.png>
+Package pdftex.def Info: figures/manual.png used on input line 178.
+(pdftex.def)             Requested size: 283.22162pt x 131.84705pt.
+ [47 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/manual.png (PN
+G copy)>]
+<figures/zoconp6.png, id=931, 1127.21124pt x 485.815pt>
+File: figures/zoconp6.png Graphic file (type png)
+
+<use figures/zoconp6.png>
+Package pdftex.def Info: figures/zoconp6.png used on input line 192.
+(pdftex.def)             Requested size: 283.21251pt x 85.35248pt.
+
+
+LaTeX Warning: Reference `fig:pPerfil' on page 48 undefined on input line 199.
+
+<figures/p61.png, id=935, 1056.94875pt x 448.67625pt>
+File: figures/p61.png Graphic file (type png)
+ <use figures/p61.png>
+Package pdftex.def Info: figures/p61.png used on input line 212.
+(pdftex.def)             Requested size: 306.81741pt x 130.24286pt.
+
+<figures/p62.png, id=936, 1031.855pt x 435.6275pt>
+File: figures/p62.png Graphic file (type png)
+ <use figures/p62.png>
+Package pdftex.def Info: figures/p62.png used on input line 213.
+(pdftex.def)             Requested size: 306.81741pt x 129.53265pt.
+
+[48 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/zoconp6.png (PN
+G copy)>]
+Overfull \hbox (11.43477pt too wide) in paragraph at lines 226--226
+[]\OT1/cmr/bx/sc/12 Aceleracion 
+ []
+
+
+Overfull \hbox (11.43477pt too wide) in paragraph at lines 226--226
+[]\OT1/cmr/bx/sc/12 Aceleracion 
+ []
+
+[49 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/p61.png (PNG co
+py)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/p62.png (PNG c
+opy)>] [50] <figures/finalcambios.png, id=954, 847.165pt x 369.38pt>
+File: figures/finalcambios.png Graphic file (type png)
+
+<use figures/finalcambios.png>
+Package pdftex.def Info: figures/finalcambios.png used on input line 281.
+(pdftex.def)             Requested size: 283.22162pt x 123.49083pt.
+ [51 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/finalcambios.p
+ng (PNG copy)>]
+<figures/AutoVsManual.png, id=963, 884.30376pt x 382.42876pt>
+File: figures/AutoVsManual.png Graphic file (type png)
+
+<use figures/AutoVsManual.png>
+Package pdftex.def Info: figures/AutoVsManual.png used on input line 309.
+(pdftex.def)             Requested size: 283.22162pt x 122.48473pt.
+)
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\c6Volante.tex" [52 <D:/My 
+Documents D/Documents/Pasantia/Memoria-Latex/figures/AutoVsManual.png (PNG copy
+)>]
+Cap\'{\i }tulo 6.
+[53
+
+] <figures/alpine.PNG, id=974, 181.67876pt x 188.705pt>
+File: figures/alpine.PNG Graphic file (type png)
+
+<use figures/alpine.PNG>
+Package pdftex.def Info: figures/alpine.PNG used on input line 17.
+(pdftex.def)             Requested size: 94.4048pt x 98.05804pt.
+ <figures/desvTorcs.png, id=975, 839.135pt x 401.5pt>
+File: figures/desvTorcs.png Graphic file (type png)
+
+<use figures/desvTorcs.png>
+Package pdftex.def Info: figures/desvTorcs.png used on input line 17.
+(pdftex.def)             Requested size: 283.22162pt x 135.50958pt.
+ [54 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/alpine.PNG (PN
+G copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/desvTorcs.
+png (PNG copy)>]
+<figures/vuelta1.png, id=982, 517.935pt x 387.4475pt>
+File: figures/vuelta1.png Graphic file (type png)
+
+<use figures/vuelta1.png>
+Package pdftex.def Info: figures/vuelta1.png used on input line 31.
+(pdftex.def)             Requested size: 226.57297pt x 169.49013pt.
+ <figures/vuelta2.png, id=983, 521.95pt x 387.4475pt>
+File: figures/vuelta2.png Graphic file (type png)
+
+<use figures/vuelta2.png>
+Package pdftex.def Info: figures/vuelta2.png used on input line 31.
+(pdftex.def)             Requested size: 226.57297pt x 168.18948pt.
+
+<figures/vuelta3.png, id=984, 515.9275pt x 387.4475pt>
+File: figures/vuelta3.png Graphic file (type png)
+
+<use figures/vuelta3.png>
+Package pdftex.def Info: figures/vuelta3.png used on input line 32.
+(pdftex.def)             Requested size: 236.01561pt x 177.2407pt.
+ [55 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/vuelta1.png (P
+NG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/vuelta2.p
+ng (PNG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/vuel
+ta3.png (PNG copy)>]
+<figures/desviacionPlatero.png, id=991, 839.135pt x 391.4625pt>
+File: figures/desviacionPlatero.png Graphic file (type png)
+
+<use figures/desviacionPlatero.png>
+Package pdftex.def Info: figures/desviacionPlatero.png used on input line 41.
+(pdftex.def)             Requested size: 377.62642pt x 176.16246pt.
+)
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\conclusiones.tex" [56 <D:/
+My Documents D/Documents/Pasantia/Memoria-Latex/figures/desviacionPlatero.png (
+PNG copy)>]
+Cap\'{\i }tulo 7.
+[57
+
+]) ("D:\My Documents D\Documents\Pasantia\Memoria-Latex\thesis.bbl" [58]
+[59
+
+]) ("D:\My Documents D\Documents\Pasantia\Memoria-Latex\ApeCsic.tex"
+[60]
+Ap\'{e}ndice A.
+[61
+
+]) ("D:\My Documents D\Documents\Pasantia\Memoria-Latex\paxson.tex" [62]
+Ap\'{e}ndice B.
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 13.
+
+LaTeX Font Info:    No file OMScmtt.fd. on input line 13.
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 13.
+
+[63
+
+] [64])
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\ApeZonaConduccion.tex"
+[65]
+Ap\'{e}ndice C.
+[66
+
+] <figures/zocon.png, id=1048, 772.8875pt x 366.36874pt>
+File: figures/zocon.png Graphic file (type png)
+
+<use figures/zocon.png>
+Package pdftex.def Info: figures/zocon.png used on input line 22.
+(pdftex.def)             Requested size: 236.01561pt x 111.87367pt.
+)
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\ApeVehiculosAuto.tex"
+[67 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/zocon.png (PNG 
+copy)>]
+Ap\'{e}ndice D.
+<figures/furgonetas.jpg, id=1054, 1083.04625pt x 409.53pt>
+File: figures/furgonetas.jpg Graphic file (type jpg)
+
+<use figures/furgonetas.jpg>
+Package pdftex.def Info: figures/furgonetas.jpg used on input line 10.
+(pdftex.def)             Requested size: 236.01561pt x 89.24077pt.
+
+<figures/c3s.jpg, id=1057, 1624.0675pt x 695.59875pt>
+File: figures/c3s.jpg Graphic file (type jpg)
+ <use figures/c3s.jpg>
+Package pdftex.def Info: figures/c3s.jpg used on input line 19.
+(pdftex.def)             Requested size: 236.01561pt x 101.07681pt.
+
+<figures/molinero.jpg, id=1059, 638.385pt x 332.24126pt>
+File: figures/molinero.jpg Graphic file (type jpg)
+
+<use figures/molinero.jpg>
+Package pdftex.def Info: figures/molinero.jpg used on input line 28.
+(pdftex.def)             Requested size: 236.01561pt x 122.83101pt.
+ [68
+
+ <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/furgonetas.jpg>] [
+69 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/c3s.jpg> <D:/My 
+Documents D/Documents/Pasantia/Memoria-Latex/figures/molinero.jpg>]
+<figures/FuncionamientoAcelerador.png, id=1072, 590.205pt x 101.37875pt>
+File: figures/FuncionamientoAcelerador.png Graphic file (type png)
+
+<use figures/FuncionamientoAcelerador.png>
+Package pdftex.def Info: figures/FuncionamientoAcelerador.png used on input lin
+e 54.
+(pdftex.def)             Requested size: 377.62642pt x 64.86516pt.
+
+<figures/ValvulaFrenada.png, id=1074, 544.0325pt x 408.52625pt>
+File: figures/ValvulaFrenada.png Graphic file (type png)
+
+<use figures/ValvulaFrenada.png>
+Package pdftex.def Info: figures/ValvulaFrenada.png used on input line 64.
+(pdftex.def)             Requested size: 188.8132pt x 141.78323pt.
+
+<figures/SistemaFrenada.png, id=1075, 558.085pt x 422.57875pt>
+File: figures/SistemaFrenada.png Graphic file (type png)
+
+<use figures/SistemaFrenada.png>
+Package pdftex.def Info: figures/SistemaFrenada.png used on input line 68.
+(pdftex.def)             Requested size: 188.8132pt x 142.96559pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 62--70
+[][] [] 
+ []
+
+[70 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/FuncionamientoA
+celerador.png (PNG copy)>]
+<figures/FuncionamientoFreno.png, id=1084, 590.205pt x 222.8325pt>
+File: figures/FuncionamientoFreno.png Graphic file (type png)
+
+<use figures/FuncionamientoFreno.png>
+Package pdftex.def Info: figures/FuncionamientoFreno.png used on input line 80.
+
+(pdftex.def)             Requested size: 377.62642pt x 142.5749pt.
+)
+("D:\My Documents D\Documents\Pasantia\Memoria-Latex\ApePruebasTorcs.tex"
+[71 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/ValvulaFrenada.
+png (PNG copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/Sis
+temaFrenada.png (PNG copy)>] [72 <D:/My Documents D/Documents/Pasantia/Memoria-
+Latex/figures/FuncionamientoFreno.png (PNG copy)>]
+Ap\'{e}ndice E.
+<figures/c11.png, id=1097, 199.74625pt x 425.59pt>
+File: figures/c11.png Graphic file (type png)
+ <use figures/c11.png>
+Package pdftex.def Info: figures/c11.png used on input line 14.
+(pdftex.def)             Requested size: 99.87288pt x 212.79446pt.
+
+<figures/c8.png, id=1098, 406.51875pt x 302.12875pt>
+File: figures/c8.png Graphic file (type png)
+ <use figures/c8.png>
+Package pdftex.def Info: figures/c8.png used on input line 20.
+(pdftex.def)             Requested size: 203.25887pt x 151.064pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 12--24
+[][] [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/c1.png, id=1099, 565.11125pt x 716.6775pt>
+File: figures/c1.png Graphic file (type png)
+ <use figures/c1.png>
+Package pdftex.def Info: figures/c1.png used on input line 29.
+(pdftex.def)             Requested size: 254.2977pt x 322.5019pt.
+
+Overfull \hbox (18.28209pt too wide) in paragraph at lines 29--30
+ [][] 
+ []
+
+<figures/c6.png, id=1100, 448.67625pt x 671.50874pt>
+File: figures/c6.png Graphic file (type png)
+ <use figures/c6.png>
+Package pdftex.def Info: figures/c6.png used on input line 36.
+(pdftex.def)             Requested size: 201.90245pt x 302.17615pt.
+
+Overfull \hbox (19.44852pt too wide) in paragraph at lines 27--40
+[][]   [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 203.
+ [73
+
+] [74 <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/c11.png (PNG 
+copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/c8.png (PNG 
+copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/c1.png (PNG 
+copy)> <D:/My Documents D/Documents/Pasantia/Memoria-Latex/figures/c6.png (PNG 
+copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 203.
+ ("D:\My Documents D\Documents\Pasantia\Memoria-Latex\thesis.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 203.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 203.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 036C34A660E0ED0E7719F2D5C16ACD47;4319.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 14967 strings out of 494045
+ 221662 string characters out of 3148392
+ 373445 words of memory out of 3000000
+ 17639 multiletter control sequences out of 15000+200000
+ 15901 words of font info for 64 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 61i,21n,96p,1302b,728s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmitt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmti7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on thesis.pdf (90 pages, 5557338 bytes).
+PDF statistics:
+ 1231 PDF objects out of 1440 (max. 8388607)
+ 248 named destinations out of 1000 (max. 500000)
+ 843 words of extra memory for PDF output out of 10000 (max. 10000000)
+

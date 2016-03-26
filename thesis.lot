@@ -1,0 +1,22 @@
+\select@language {spanish}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Modificadores Ling\IeC {\"u}\IeC {\'\i }sticos soportados por ORBEX\relax }}{13}{table.caption.12}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces M\IeC {\'e}tricas implementadas en el sistema. Donde $P(i)$ es el valor del perfil de velocidad, $V(i)$ la velocidad del carro y $t(i)$ el tiempo en el instante $i$. \relax }}{22}{table.caption.17}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Variables utilizadas por la clase {\tt FuzzyController}.\relax }}{23}{table.caption.18}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Archivos de salida que se implementaron.\relax }}{23}{table.caption.19}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Formato de la simulaci\IeC {\'o}n que se realizo a los diferentes tipos de carros del TORCS\relax }}{41}{table.caption.37}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Tabla comparativa de los atributos de los veh\IeC {\'\i }culos\relax }}{42}{table.caption.38}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Comparaci\IeC {\'o}n entre los par\IeC {\'a}metros de las pruebas realizadas con un perfil de velocidad constante a 15 km/h\relax }}{45}{table.caption.41}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Valores correspondientes a los tramos de cambio de velocidad\relax }}{50}{table.caption.47}
+\contentsline {table}{\numberline {5.5}{\ignorespaces Tabla comparativa de las medias de los errores entre configuraci\IeC {\'o}n con dos variables de entrada y tres variables de entrada.\relax }}{51}{table.caption.49}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

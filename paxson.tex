@@ -1,0 +1,62 @@
+% Apendice
+\chapter{ORBEX}
+
+En la sección \ref{ape:diseno} se explica como diseñar un controlador utilizando ORBEX, en la sección \ref{ape:gramatica} se indica la gramática para generar reglase y en la sección \ref{ape:orbex} presenta un ejemplo de un controlador definido en ORBEX. 
+
+\section{Diseño de controlador}
+\label{ape:diseno}
+
+Para el diseño de un controlador con \gls{ORBEX} es necesario especificar 3 secciones fundamentales:
+\begin{itemize}
+    
+    \item Las variables de entrada al sistema con sus respectivas particiones difusas o etiquetas lingüísticas. Esta sección se inicia con la cadena \textit{Entradas:}, seguida de las definiciones de las variables de entrada. La definición de variables de entrada se hará siguiendo el siguiente formato, donde \textit{(A,B,C,D)} define una función de pertenencia
+    trapezoidal:\\\texttt{Entrada$_{1}$   \{Etiqueta$_{11}$ A$_{11}$ B$_{11}$ C$_{11}$ D$_{11}$ \\Etiqueta$_{12}$ A$_{12}$ B$_{12}$ C$_{12}$ D$_{12}$}
+    ...\}\\\texttt{Entrada$_{2}$   \{Etiqueta$_{21}$ A$_{21}$ B$_{21}$ C$_{21}$ D$_{21}$ \\Etiqueta$_{22}$ A$_{22}$ B$_{22}$ C$_{22}$ D$_{22}$}
+    ...\}
+    
+    \item Las variables de salida del sistema con sus respectivas particiones (singleton). Esta sección se inicia con la cadena \textit{Salidas:}, seguida de las definiciones de las variables de salida, que son descritas de manera muy similar a las entradas, salvo que con un único valor, que se usa para definir la posición del
+    Singleton:\\\texttt{Salida$_{1}$   \{Etiqueta$_{11}$ A$_{11}$  Etiqueta$_{12}$ A$_{12}$...\}}\\\texttt{Salida$_{2}$   \{Etiqueta$_{21}$ A$_{21}$  Etiqueta$_{22}$ A$_{22}$...\}}
+    
+    \item Un conjunto de reglas de inferencia que operan sobre las variables de entrada y de salida de tal forma que a las variables de salida les sea asignado un valor. Esta sección tiene la particularidad de que permite escribir e identificar varios juegos excluyentes de reglas a los que llamaremos contextos. Cada contexto debe iniciarse con la palabra  Reglas seguida de un nombre de contexto de la siguiente forma. Para describir las reglas, \gls{ORBEX} permite el uso de la siguiente sintaxis, que le hace ser muy potente y flexible en la definición de reglas, uso de modificadores...aunque en este trabajo, principalmente trabajaremos con reglas del tipo:
+    \\\texttt{SI Entrada$_{1}$ Valor$_{1}$ Y In$_{2}$ Valor$_{2}$ ENTONCES Salida$_{1}$ Salida}
+\end{itemize}
+
+\section{Definición formal de la gramática}
+\label{ape:gramatica}
+
+Formalmente, la gramática para generar reglas en formato \gls{ORBEX} es la siguiente:
+
+\begin{alltt}
+Sentencia = SI prótasis ENTONCES apódosis
+Prótasis = sujeto predicado {(Y | O) sujeto predicado }
+Predicado = [ NO ] ( [ modificador | comparador ]  |
+              ENTRE adjetivo Y  adjetivo )
+Modificador = POCO | MUY | EXTRA
+Comparador =  MAYORQUE | MENORQUE
+Apódosis = sujeto adjetivo { , sujeto adjetivo }
+Sujeto = variable difusa
+Adjetivo = subconjunto difuso
+\end{alltt}
+
+
+\section{Controlador}
+\label{ape:orbex}
+
+Ejemplo de controlador simple, definido en ORBEX:\\
+
+\begin{alltt}
+Entradas:
+    Input1 {Low 0 0 0 5 Medium 0 5 5 10 High 5 10 10 10}
+    Input2 {Low 0 0 2.5 5 Medium 2.5 5 5 7.5 High 5 7.5 10 10}
+Salidas:
+   Output1 {Low -1 Medium 0 High 1}
+Reglas Contexto
+    SI Input1 Low Y Input2 Low ENTONCES Output1 High
+    SI Input1 NO Low ENTONCES Output1 Low
+    SI Input2 Medium ENTONCES Output1 Medium
+    SI Input2 High ENTONCES Output1 Low
+\end{alltt}
+
+
+
+

@@ -1,0 +1,120 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{glssymbols}\relax \glsresetentrylist %
+\glossaryentryfield{dedt}{\glsnamefont{\ensuremath {\frac {d(\varepsilon _v(i))}{d(t)}}}}{Derivada del error de velocidad con respecto al tiempo}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{22}}}%
+\glossaryentryfield{error}{\glsnamefont{\ensuremath {\varepsilon _v(i)}}}{Error de velocidad en el instante de tiempo $i$}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{22}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{34\delimN 35}}}%
+\glossaryentryfield{mu_{i}(t-1)}{\glsnamefont{\ensuremath {mu_{i}(t-1)}}}{Grado de activación del singleton $i$ en el instante de tiempo (t-1)}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{25}}}%
+\glossaryentryfield{integrall}{\glsnamefont{\ensuremath {\int _{i-10}^{i}\varepsilon _v(i)}}}{Integral del error de velocidad durante los últimos diez instantes de tiempo}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{22}}}%
+\glossaryentryfield{summod}{\glsnamefont{\ensuremath {\sum _{x= i-10}^{i}\mid \varepsilon _v(x)\mid }}}{Suma del modulo del error de velocidad de los últimos diez instantes de tiempo}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{22}}}\glsgroupskip
+\glsgroupheading{A}\relax \glsresetentrylist %
+\glossaryentryfield{ABS}{\glsnamefont{ABS}}{Antilock Breaking System}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{16}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{70}}}%
+\glossaryentryfield{a(i)}{\glsnamefont{\ensuremath {a(i)}}}{Aceleración del velocidad durante el instante de tiempo $i$}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{22}}}%
+\glossaryentryfield{a_c}{\glsnamefont{\ensuremath {a_c}}}{Aceleración de confort}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{26}}}%
+\glossaryentryfield{AMD64}{\glsnamefont{AMD64}}{Arquitectura basada en la extensión del conjunto de instrucciones x86 para manejar direcciones de 64 bits}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{17}}}\glsgroupskip
+\glsgroupheading{C}\relax \glsresetentrylist %
+\glossaryentryfield{C++}{\glsnamefont{C++}}{Lenguaje de programación diseñado con la intención de extender al lenguaje de programación C con mecanismos que permitan la manipulación de objetos}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{20}}}%
+\glossaryentryfield{CAN}{\glsnamefont{CAN}}{Control Area Network}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{15}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{44}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{71}}}%
+\glossaryentryfield{CAR}{\glsnamefont{CAR}}{Centro de Automática y Robótica}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{1}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{4\delimN 5}}}%
+\glossaryentryfield{Cte}{\glsnamefont{\ensuremath {Cte}}}{Constante de normalización}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{25}}}%
+\glossaryentryfield{CSIC}{\glsnamefont{CSIC}}{Consejo Superior de Investigaciones Científicas}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{4\delimN 5}}}\glsgroupskip
+\glsgroupheading{D}\relax \glsresetentrylist %
+\glossaryentryfield{DGPS}{\glsnamefont{DGPS}}{Differential Global Positioning System}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{15}}}\glsgroupskip
+\glsgroupheading{F}\relax \glsresetentrylist %
+\glossaryentryfield{FreeBSD}{\glsnamefont{FreeBSD}}{Sistema operativo libre basado en las CPU de arquitectura Intel}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{17}}}\glsgroupskip
+\glsgroupheading{G}\relax \glsresetentrylist %
+\glossaryentryfield{GPL}{\glsnamefont{GPL}}{Licencia Pública General (\textit {General Public License}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{17}}}%
+\glossaryentryfield{GPS}{\glsnamefont{GPS}}{Global Positioning System}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{15}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{69}}}\glsgroupskip
+\glsgroupheading{I}\relax \glsresetentrylist %
+\glossaryentryfield{IMU}{\glsnamefont{IMU}}{Inertial Measurement Unit}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{69}}}%
+\glossaryentryfield{ITS}{\glsnamefont{ITS}}{Sistemas Inteligentes de Transporte (\textit {Intelligent Transportation Systems})}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{1}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{57}}}\glsgroupskip
+\glsgroupheading{L}\relax \glsresetentrylist %
+\glossaryentryfield{Linux}{\glsnamefont{Linux}}{Núcleo libre de sistema operativo basado en Unix}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{17}}}\glsgroupskip
+\glsgroupheading{M}\relax \glsresetentrylist %
+\glossaryentryfield{MacOSX}{\glsnamefont{MacOSX}}{Sistema operativo desarrollado y comercializado por Apple Inc.}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{17}}}%
+\glossaryentryfield{MAE}{\glsnamefont{MAE}}{error absoluto medio (\textit {Mean Absolute Error})}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{44\delimR 48}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{52}}}%
+\glossaryentryfield{Microsoft Visual C++ Express}{\glsnamefont{Microsoft Visual C++ Express}}{Entorno de desarrollo integrado (IDE) gratuito desarrollado por Microsoft para lenguajes de programación C, C++ y C++/CLI}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{20}}}%
+\glossaryentryfield{Microsoft Windows XP}{\glsnamefont{Microsoft Windows XP}}{Versión del sistema operativo Microsoft Windows}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{20}}}\glsgroupskip
+\glsgroupheading{O}\relax \glsresetentrylist %
+\glossaryentryfield{Open Source}{\glsnamefont{Open Source}}{Código abierto, es el término con el que se conoce al software distribuido y desarrollado libremente}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{17}}}%
+\glossaryentryfield{ORBEX}{\glsnamefont{ORBEX}}{Ordenador Borroso Experimental}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{11\delimR 13}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{18}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{21}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{23}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{28}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{61}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{63\delimN 64}}}\glsgroupskip
+\glsgroupheading{P}\relax \glsresetentrylist %
+\glossaryentryfield{P(i)}{\glsnamefont{\ensuremath {P(i)}}}{Perfil de velocidad durante el instante de tiempo $i$}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{22}}}%
+\glossaryentryfield{PPC}{\glsnamefont{PPC}}{Sistema operativo Linux que posee un kernel nativo PPC}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{17}}}\glsgroupskip
+\glsgroupheading{S}\relax \glsresetentrylist %
+\glossaryentryfield{s(t)}{\glsnamefont{\ensuremath {s(t)}}}{Singleton en el instante $t$}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{25}}}%
+\glossaryentryfield{singletons}{\glsnamefont{Singletons}}{Conjunto con un único elemento}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{12}}}\glsgroupskip
+\glsgroupheading{T}\relax \glsresetentrylist %
+\glossaryentryfield{t(i)}{\glsnamefont{\ensuremath {t(i)}}}{tiempo en el instante $i$}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{22}}}%
+\glossaryentryfield{TORCS}{\glsnamefont{TORCS}}{The Open Racing Car Simulator}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{17\delimN 18}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{20\delimR 22}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{45}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{53\delimR 55}}}\glsgroupskip
+\glsgroupheading{U}\relax \glsresetentrylist %
+\glossaryentryfield{UPM}{\glsnamefont{UPM}}{Universidad Politécnica de Madrid}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{4\delimN 5}}}\glsgroupskip
+\glsgroupheading{V}\relax \glsresetentrylist %
+\glossaryentryfield{V(i)}{\glsnamefont{\ensuremath {V(i)}}}{Velocidad del velocidad durante el instante de tiempo $i$}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{22}}}\glsgroupskip
+\glsgroupheading{W}\relax \glsresetentrylist %
+\glossaryentryfield{Windows}{\glsnamefont{Windows}}{familia de sistemas operativos desarrollados por Microsoft}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{17}}}%
+\glossaryentryfield{WLAN}{\glsnamefont{WLAN}}{Wireless Area Network}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{15}}}\glsgroupskip
+\glsgroupheading{X}\relax \glsresetentrylist %
+\glossaryentryfield{x86}{\glsnamefont{x86}}{Nombre dado al grupo de microprocesadores de la familia de Intel y a la arquitectura que comparten estos procesadores}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{17}}}\glsgroupskip
+\glsgroupheading{Z}\relax \glsresetentrylist %
+\glossaryentryfield{ZOCO}{\glsnamefont{ZOCO}}{Zona de Conducción}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{14\delimN 15}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{44}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{55}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{61}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{69}}}%
+\end{theglossary}\glossarypostamble

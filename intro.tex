@@ -1,0 +1,60 @@
+
+% Titulo de la introduccion.
+\chapter*{Introducción}
+\label{chap:0_Introduccion}
+\addcontentsline{toc}{chapter}{Introducci\'on}
+
+% Contenido de la introduccion.
+%\section*{Antecedentes:}
+\label{sec:Antecedentes}
+%Puedes quitar esto(es opcional)
+
+El notable incremento del número de vehículos en las carreteras durante los últimos años ha ocasionado a su vez la proliferación de proyectos de investigación dedicados al desarrollo de \gls{ITS} que permitan optimizar el flujo del tráfico y aumentar la seguridad en las carreteras.
+
+La mayor parte de estas soluciones \gls{ITS} están basadas en el guiado automático de los vehículos.  Durante los últimos 10 años, el grupo AUTOPIA del \gls{CAR} se ha dedicado, en el marco de varios proyectos europeos, a transferir las técnicas desarrolladas para el control de robots móviles a vehículos convencionales, logrando así que la  conducción autónoma de vehículos sea una idea cada vez menos utópica.
+	
+Con el aumento de prestaciones de los sistemas de localización, sensorización y control, las exigencias son cada vez más importantes. Para conseguir que el control sea lo más seguro y eficaz posible, el conocimiento de la dinámica del vehículo y de su interacción con el entorno es imprescindible.
+   
+%\section*{Justificación}
+\label{sec:justifiacion}
+
+
+Como resultado del aumento en la motorización, urbanización y la densidad de población, los problemas de congestión de tráfico se han incrementado, reduciendo la eficiencia de la infraestructura de transporte, y ocasionando un aumento en el tiempo de viaje, la contaminación del aire, y el consumo de combustible. Esta serie de problemas han generando mayor interés en la investigación de los \gls{ITS} como posible solución a esta situación y como una manera de hacer más seguro el tránsito por las vías (urbanas e interurbanas).
+
+Uno de los objetivos fundamentales de los \gls{ITS} es aplicar tecnología de la información y la comunicación con el fin de obtener una conducción segura y eficiente. Hoy día, el desarrollo de este tipo de sistemas proporciona una oportunidad de mejorar la seguridad, eficiencia y comodidad en el transporte, ya sea por carretera, aéreo, marítimo o ferroviario\cite{jones_k}
+
+Las acciones involucradas en la conducción de un automóvil pueden ser fácilmente descritas mediante sentencias del tipo: \textit{si el vehículo va a una velocidad menor a la deseada entonces pisar con más fuerza el pedal de aceleración}.  
+La lógica difusa trata con la incertidumbre, adjuntando grados de veracidad a la respuesta a una pregunta lógica. En la literatura, desde sus inicios, ha probado ser eficaz y eficiente cuando es aplicada a problemas de la vida real\cite{king}\cite{larsen}\cite{ross}. Comercialmente, la lógica difusa ha sido utilizada con gran éxito en el control de máquinas y productos de consumo. En la aplicación adecuada, los sistemas de lógica difusa son simples de diseñar, y pueden ser comprendidos e implementados por personas no especialistas en el área de teoría de control. 
+
+Los sistemas de control basados en lógica difusa, son utilizados principalmente en situaciones en las cuales un control adecuado es suficiente, ya que no garantizan un resultado óptimo pero si uno aceptable, al igual que resultan candidatos muy fuertes a la hora de enfrentarse con problemas donde la simplicidad y el tiempo de respuesta son factores de gran importancia. Se han aplicado con éxito sistemas de este estilo en las siguientes áreas: aire acondicionado, humidificadores, lavadoras/secadoras, aspiradoras, tostadoras, hornos microondas, refrigeradores, televisión, fotocopiadoras, cámaras de vídeo (Auto-Foco, exposición y Anti-Shake), sistemas Hi-Fi, control climático del vehículo, cajas de cambio automáticas, sistema de tracción en las cuatro ruedas o sistemas de control para espejos y asiento.
+
+%\section*{Planteamiento}
+\label{sec:planteamiento}
+%Puedes quitar esto(es opcional)
+
+Partimos de la base de que la conducción de un vehículo puede ser fácilmente descrita mediante un conjunto de reglas sencillas, interpretables por una persona sin conocimiento alguno de la dinámica del vehículo, así como sin necesidad de medidas exactas. Este trabajo se enfoca en la creación de un sistema de aprendizaje para controladores basados en lógica difusa, encargados de automatizar el funcionamiento de ciertos controles correspondientes a la conducción. 
+
+El sistema debe poseer la capacidad de adaptarse al funcionamiento de los controladores del vehículo que realizan la automatización, sin la necesidad de tener que especificarle el modelo de funcionamiento de cada uno de ellos, para lo cual a medida que se ejecuta el sistema debe ir aprendiendo sobre la tarea que automatiza.
+
+El aprendizaje se realizará en dos etapas, una llamada aprendizaje local, correspondiente al análisis del comportamiento y los valores obtenidos en la ejecución anterior y otra etapa de aprendizaje global correspondiente a un análisis que abarque lo ocurrido en cada cierto número de iteraciones, o cuando ocurra o se cumpla una situación específica.       
+
+
+%\section*{Objetivo general}
+\label{sec:ObjetivoG}
+%Puedes quitar esto(es opcional)
+
+El objetivo global del proyecto es el diseño e implementación de un sistema de aprendizaje que pueda modificar en tiempo real controladores difusos utilizados en conducción autónoma de vehículos. El sistema debe ser capaz de adaptarse a los constantes cambios de dinámicas que podemos encontrar en un vehículo, debidos a, por ejemplo: el número y peso de los ocupantes, la presión y dimensiones de las ruedas, el peso y dimensiones del automóvil, el tipo de tracción, etc., para así tener un sistema de control genérico para vehículos. Los objetivos específicos que se establecieron para poder alcanzar el objetivo general, son los siguientes:
+
+%\section*{Objetivo específico}
+\label{sec:ObjetivoE}
+
+\begin{itemize}
+\item Familiarización con las técnicas basadas en lógica difusa, ya que se van a utilizar controladores difusos para la automatización de las tareas.
+\item Estudio del estado del arte de sistemas difusos adaptativos.
+\item Diseño de un método de aprendizaje en tiempo real de los singletons de un controlador difuso.
+\item Diseño de un método de aprendizaje de la topología de un sistema difuso.
+\item Implementación de dichos métodos de aprendizaje y pruebas tanto en vehículos virtuales como reales.
+\item Comparación de bondad frente a un conductor humano.
+\end{itemize}
+
+El trabajo está estructurado de la siguiente manera: el primer capítulo describe la institución donde se realizó el trabajo; el capítulo dos corresponde al marco teórico, donde se definen los conceptos de lógica difusa y los controles basados en ella, al igual que se presentan las diversas herramientas utilizadas a lo largo del desarrollo del proyecto; en el tercer capítulo se realiza la descripción y análisis del diseño, el cual esta compuesto por cuatro fases, análisis, diseño, implementación y pruebas; en el capítulo cuatro se explica el desarrollo de la solución; el capítulo cinco presenta las pruebas y resultados obtenidos; en el capítulo seis se explica la adaptación del sistema para el control automático del volante; por último, en el capítulo siete, se encuentran las conclusiones, recomendaciones y trabajos futuros.

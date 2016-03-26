@@ -1,0 +1,112 @@
+\begin{thebibliography}{10}
+
+\bibitem{Alcalde2000}
+S.~Alcalde.
+\newblock Instrumentación de un vehículo eléctrico para una conducción
+  autónoma.
+\newblock Tesis de máster, Universidad Politécnica de Madrid, 2000.
+
+\bibitem{angelov04}
+P.~Angelov.
+\newblock A fuzzy controller with evolving structure.
+\newblock {\em Information Science}, 2004.
+
+\bibitem{Angelov02}
+P.~Angelov and D.~Filev.
+\newblock Flexible models with evolving structure.
+\newblock In {\em 2002 First International IEEE Symposium}.
+
+\bibitem{utopia}
+Programa Autopía.
+\newblock http://www.car.upm-csic.es/autopia/.
+
+\bibitem{servo}
+A.~Belén, H.~Pomares, I.~Rojas, Z.~Lendek, and R.~Babuska.
+\newblock Online self-organizing adaptive fuzzy controller: application to a
+  nonlinear servo system.
+\newblock In {\em IEEE World Congress on Computational Intelligence}.
+
+\bibitem{online}
+A.~Belén, H.~Pomares, I.~Rojas, Z.~Lendek, and R.~Babuska.
+\newblock Online self-evolving fuzzy controller with global learning
+  capabilities.
+\newblock {\em Evolving Systems}, 2010.
+
+\bibitem{car}
+Centro de~Automática~y Robótica.
+\newblock http://www.car.upm-csic.es/.
+
+\bibitem{Garcia1998}
+R.~García and T.~de~Pedro.
+\newblock Modeling a fuzzy coprocessor and its programming language.
+\newblock {\em Mathware and Soft Computing}, 5(2-3):167--174, 1998.
+
+\bibitem{GodoyBilbao2010}
+J.~Godoy, V.~Milanés, J.~Pérez, J.~Villagrá, T.~De~Pedro, and González C.
+\newblock Implementación de un sistema de localización para vehículos sin
+  conductor.
+\newblock In {\em Seminario Anual de Automática, Electrónica Industrial e
+  Intrumentación}, 2010.
+
+\bibitem{jones_k}
+W.~D. Jones.
+\newblock Keeping cars from crashing.
+\newblock {\em IEEE Spectrum}, 38(9):40--45, 2001.
+
+\bibitem{king}
+PJ~King and EH~Mamdani.
+\newblock {The application of fuzzy control systems to industrial processes}.
+\newblock {\em Automatica}, 13(3):235--242, 1977.
+
+\bibitem{larsen}
+M.~Larsen et~al.
+\newblock {Industrial applications of fuzzy logic control}.
+\newblock {\em International Journal of Man-Machine Studies}, 12(1):3--10,
+  1980.
+
+\bibitem{Milanes2010}
+V.~Milanés, C.~González, J.E. Naranjo, E.~Onieva, and T.~De~Pedro.
+\newblock Electro-hydraulic braking system for autonomous vehicles.
+\newblock {\em International Journal of Automotive Technology}, 1(11):89--95,
+  Feb 2010.
+
+\bibitem{milanesCl}
+V.~Milanés, D.F. LLorca, B.~Vinagre, C.~González, and M.A. Sotelo.
+\newblock Clavileño: Evolution of an autonomous car.
+\newblock In {\em Proc. of 13th International IEEE Conference on Intelligent
+  Transportation Systems}, 2010.
+
+\bibitem{Milanes2008a}
+V.~Milanés, J.~E. Naranjo, C.~Gonzánez, J.~Alonso, and T.~de~Pedro.
+\newblock Autonomous vehicle based in cooperative gps and inertial systems.
+\newblock {\em ROBOTICA}, 26:627--633, 2008.
+
+\bibitem{Milanes2008b}
+V.~Milanés, J.E. Naranjo, C.~González, R.~García, and T.~de~Pedro.
+\newblock Sistema de posicionamiento para vehículos autónomos.
+\newblock {\em Revista Iberoamericana de Automática e Informática
+  Industrial}, 5(4):36--41, 2008.
+
+\bibitem{two}
+H.~Pomares, I.~Rojas, F.~González, F.~Rojas, and F.J. Damas, M.~Fernaández.
+\newblock A two-stage approach to self-learning direct fuzzy controllers.
+\newblock {\em International Journal of Approximate Reasoning}, 2002.
+
+\bibitem{adaptive}
+I.~Rojas, J.~Pomares, H.~Gonzalez, Herrera L.J., A.~Guillen, F.~Rojas, and
+  O.~Valenzuela.
+\newblock Adaptive fuzzy controller: Application to the control of the
+  temperature of a dynamic room in real time.
+\newblock {\em Fuzzy Sets and Systems}, 2006.
+
+\bibitem{ross}
+T.J. Ross.
+\newblock {\em {Fuzzy logic with engineering applications}}.
+\newblock John Wiley \& Sons Inc, 2004.
+
+\bibitem{zadeh1965fuzzy}
+L.A. Zadeh.
+\newblock {Fuzzy sets}.
+\newblock {\em Information and control}, 8(3):338--353, 1965.
+
+\end{thebibliography}

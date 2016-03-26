@@ -1,0 +1,49 @@
+\chapter{Descripción y análisis del diseño}
+\label{chap:3_Descripcion}
+
+Este capítulo ofrece una visión acerca de los lineamientos seguidos para el diseño del desarrollo del proyecto, especificando la metodología utilizada y las cuatro fases que esta involucró. Para el desarrollo del sistema, se definieron cuatro etapas básicas, descritas a continuación.
+
+
+\section{Fase de análisis}
+\label{subsec:analisis}
+
+
+Consistió en definir el objetivo general del proyecto, objetivos específicos, y cada una de las funcionalidades que se querían implementar. Se consultaron trabajos correspondientes al área de estudio a la que pertenece nuestro trabajo \cite{servo} \cite{online} \cite{two} \cite{adaptive} , para determinar los métodos de aprendizaje que se han implementado y analizar los resultados de tales sistemas.
+
+Se hizo un análisis de la librería de lógica difusa \gls{ORBEX} (sección \ref{sec:orbex}), los tipos de funciones de pertenencias que soporta, la manera en que maneja y procesa los datos. Al igual que un estudio sobre la herramienta de simulación \gls{TORCS}, y los vehículos del grupo AUTOPIA que se van utilizar para las pruebas, para determinar si los resultados obtenidos con las simulaciones son representativos de una prueba realizada con los automóviles. A partir de este estudio, se determinaron los sistemas de control a desarrollar, eligiéndose un sistema para controlar la velocidad por medio de los pedales, y en caso de contar con tiempo suficiente, desarrollar uno para el control de la dirección del carro por medio del volante. 
+
+En esta fase se determinaron las métricas a utilizar como variables de entradas para el controlador del pedal, seleccionando el error y la derivada del error como las dos principales, y en caso de realizar pruebas con una tercera variable de entrada, se eligió el perfil de velocidad del vehículo (sección \ref{sec:acondicionamiento}). 
+
+\section{Dise\~no}
+\label{subsec:diseno}
+
+
+Se buscó un diseño de la forma más general posible, con el fin de utilizarlo para el control de cualquier tarea, teniendo en cuenta una variable de confort, para evitar cambios muy bruscos en los valores de salida.
+
+Para lograr una integración más cómoda y práctica con el programa que utilizan los vehículos del grupo AUTOPIA, se implementó el cálculo de los valores de entrada directamente dentro del sistema, para evitar tener que modificar el programa del carro con la inclusión de funciones nuevas.
+
+Para poder realizar un análisis del funcionamiento del sistema de control, se optó por la creación de un archivo, que posee todo los datos correspondientes a la ejecución del sistema. 
+
+
+\section{Implementación}
+\label{subsec:implementacion}
+
+
+La fase de implementación se realizó principalmente en tres partes (ver capítulo \ref{chap:4_Desarrollo}), se comenzó por el aprendizaje local que consiste en la modificación del consecuente de las reglas, luego el aprendizaje global que se encarga de la modificación de la topología del controlador difuso, y se finalizó con una etapa de ajuste, en la cual se realizaron modificaciones principalmente al aprendizaje local.
+
+El proceso estuvo caracterizado por ser muy iterativo y de la forma ensayo y error. Al encontrarse un comportamiento extraño o valores muy por encima de lo esperado, se implementaban varias soluciones, se analizaban los nuevos resultados y se decidía si era conveniente quedarse con alguna de ellas. En muchos casos, se decidió seguir con la siguiente etapa, para ver como esta afectaba los resultados, si no se producían cambios significativos, se retrocedía a las anteriores en busca de soluciones nuevas.
+
+El sistema se desarrolló en el lenguaje \gls{C++}, ya que el programa que controla los vehículos del grupo AUTOPIA fue desarrollado en este lenguaje. Se utilizó el sistema operativo \gls{Microsoft Windows XP} y la herramienta gratuita \gls{Microsoft Visual C++ Express} para la compilación. 
+  
+
+\section{Pruebas}
+\label{subsec:pruebas}
+
+Las pruebas constituyen un eje fundamental en el desarrollo de cualquier sistema. Las pruebas efectuadas se dividen en dos tipos, las simulaciones con \gls{TORCS} y las pruebas realizadas con los vehículos del CAR.
+
+Las simulaciones realizadas con \gls{TORCS} (\textbf{sección \ref{sec:pTorcs}}), se ejecutaron utilizando un gran número de automóviles, con el fin de probar el comportamiento del sistema bajo diversas condiciones, y tener una idea de que esperar a la hora de implementar el sistema en un vehículo real.
+
+Los controles de los vehículos de \gls{TORCS} funcionan casi a la perfección, por lo que es necesario realizar pruebas de campo, para probar la implementación del sistema en un vehículo real en condiciones controladas, de esta manera podemos realizar los ajustes necesarios al sistema. A diferencia de las simulaciones, en las pruebas con el vehículo real, podemos percibir ciertos cambios de aceleración o comportamientos inusuales, que puedan ser desagradables y afecten el confort de los pasajeros. 
+
+Se hicieron diversas pruebas sobre un vehículo real utilizando configuraciones diferentes, se compararon los resultados para determinar la mejor configuración, y la seleccionada, fue sometida a una comparación contra los resultados arrojados en una prueba realizada por una persona utilizando conducción manual.      
+

@@ -1,0 +1,18 @@
+% Conclusiones
+\chapter{Conclusiones y recomendaciones} 
+
+\glsreset{ITS}
+
+La conducción automática de vehículos es un problema de gran complejidad, ya que no solo hay que considerar la dinámica y condiciones del vehículo, sino que la operación del sistema depende de la interacción entre el automóvil y el ambiente. Con los \gls{ITS} se busca mejorar la seguridad y movilidad de la red de transporte, de manera que los usuarios puedan disfrutar de beneficios  como la reducción del tráfico, tiempo de viaje, consumo de combustible, etc.
+
+En este trabajo se ha presentado la implementación exitosa de un sistema de aprendizaje de controladores difusos para la conducción autónoma de vehículos, caracterizado por ser un sistema de aprendizaje on-line, con un tiempo de respuesta muy pequeño y la capacidad de modificar la estructura del controlador; tanto el consecuente de las reglas utilizadas, por medio del aprendizaje local, como la topología del controlador, por medio del aprendizaje global. Con especificar el número de variables de entradas, los rangos y número de funciones de pertenencia de cada variable, el sistema se encarga de realizar el ajuste a los singletons correspondientes a cada regla, los cuales pueden comenzar inicializados en cero o con una configuración previamente establecida.
+
+El sistema se ha probado en un entorno simulado, obteniendo muy buenos resultados en los 30 automóviles con los que se realizaron las pruebas, exponiendo su poder de adaptarse a las diferentes dinámicas de cada vehículo. Se ajusta a los cambios de velocidad de muy buena manera, manteniendo la aceleración del vehículo en un rango establecido entre [-10,10] Km/h/s y desacelerando conforme el error de velocidad se acerca a cero, para luego lograr mantener el error velocidad en un rango entre [-1,1] Km/h.
+
+Se realizaron varias pruebas utilizando un vehículo automatizado, demostrando que puede adaptarse a la dinámica, condiciones  y controles de un vehículo real. Gracias a un análisis exhaustivo, se consiguió una configuración para el sistema, la cual ha obtenido resultados excepcionales, logrando conducir mejor que una persona, ya que durante el transcurso de las pruebas comparativas que se realizaron entre los dos, el sistema pudo mantener el error de velocidad en un valor más cercano a cero que el logrado por el conductor humano. 
+
+El sistema fue probado en el control automático del volante, donde obtuvo buenos resultado, logrando mantener la desviación lateral en un rango aceptable, y demostró la capacidad que posee de ser adaptado para la automatización de diversos controles, con solo realizar unos pequeños ajustes al código.
+
+Con respecto a trabajos a futuros, se recomienda realizar una mejora a la etapa de aprendizaje global, particularmente a la hora de agregar nuevas etiquetas a las variables de entrada, ya que al finalizar este proceso, se reinicializan los singletons del controlador, lo que implica perder todo el aprendizaje que se había adquirido hasta ese instante. Acerca del control del volante, se deben realizar más pruebas para poder encontrar la mejor configuración posible y ajustar los valores para que se pueda lograr un mejor desempeño. 
+
+El sistema se diseñó lo más genérico posible teniendo en mente futuras aplicaciones, en especial, realizar maniobras en conjunto con otros vehículos, como control de crucero entre dos automóviles; lo cual consiste en tener dos vehículos circulando, y cuando uno se encuentra con el otro, este debe tomar en cuenta la velocidad del otro y adaptarse a dicha velocidad y mantener una distancia prudente con el otro automóvil.

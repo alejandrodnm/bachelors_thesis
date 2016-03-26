@@ -1,0 +1,15 @@
+\setcounter{page}{4}
+\chapter*{Resumen}
+
+
+
+Se presenta un sistema de aprendizaje de controladores difusos, orientado a la conducción autónoma de vehículos, particularmente el control de los pedales, el cual utiliza dos técnicas de aprendizaje, una local y una global, para aprender de los valores de entrada y los resultados generados, con el objetivo de modificar la estructura y parámetros de el controlador difuso.
+
+El aprendizaje local se realiza en tiempo real permitiendo afinar los consecuentes de las reglas correspondientes al controlador difuso. Podemos considerarlo como una respuesta a corto plazo, ya que en cada instante de tiempo, analiza el funcionamiento del controlador, para determinar si es necesario ajustar el modelo que va a ser utilizado en el instante siguiente.
+
+La modificación de la topología y la inserción de nuevas funciones de pertenencia, corresponden al aprendizaje global. Al transcurrir un periodo especifico de tiempo, el sistema analiza el historial de valores de entradas utilizados por el controlador y las funciones de pertenencia a las cuales corresponden, y según el criterio establecido, determina si es necesario, modificar la estructura de las funciones de pertenencia o insertar nuevas funciones de pertenencia.
+
+El sistema fue probado en un entorno virtual utilizando unos 30 vehículos, caracterizados por poseer dinámicas diferentes. Una vez determinado el correcto funcionamiento utilizando vehículos virtuales , se procedió a implementar el sistema en un vehículo real con capacidades de conducción automática, en el cual se utilizaron diferentes configuraciones, con la finalidad de realizar un análisis comparativo y determinar cual genera el mejor desempeño. En ambos casos se obtuvieron muy buenos resultados, incluso en comparación con el modo de conducir de una persona.
+
+\newpage
+

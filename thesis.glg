@@ -1,0 +1,10 @@
+This is makeindex, version 2.15 [MiKTeX 2.9 64-bit] (kpathsea + Thai support).
+Scanning style file D:/My Documents D/Documents/Pasantia/Memoria-Latex/thesis.ist...........................done (27 attributes redefined, 0 ignored).
+Scanning input file thesis.glo...
+!! Input index error (file = thesis.glo, line = 1):
+   -- Illegal space within numerals in second argument.
+.done (125 entries accepted, 1 rejected).
+Sorting entries....done (1033 comparisons).
+Generating output file thesis.gls....done (120 lines written, 0 warnings).
+Output written in thesis.gls.
+Transcript written in thesis.glg.

@@ -1,0 +1,60 @@
+\select@language {spanish}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Conjunto difuso que representa a grupo de personas j\IeC {\'o}venes.\relax }}{7}{figure.caption.9}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Sistema difuso correspondiente a la temperatura, con cinco funciones de pertenencia. Cada etiqueta o funci\IeC {\'o}n de pertenencia corresponde a un nivel de temperatura.\relax }}{8}{figure.caption.10}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Esquema de procesamiento general de un sistema difuso.\relax }}{9}{figure.caption.11}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Vista a\IeC {\'e}rea de ZOCO\relax }}{15}{figure.caption.13}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Platero\relax }}{16}{figure.caption.14}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Instrumentaci\IeC {\'o}n de Platero\relax }}{16}{figure.caption.14}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Captura de pantalla de \gls {TORCS}.\relax }}{17}{figure.caption.15}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Esquema de ejecuci\IeC {\'o}n de una prueba realizada con TORCS. Las clases en azul son las que vienen con TORCS, la clase verde fue la que se desarroll\IeC {\'o} y en morado se indica el funcionamiento de dicha clase\relax }}{22}{figure.caption.16}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Esquema de funcionamiento de aprendizaje local.\relax }}{24}{figure.caption.20}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Comparaci\IeC {\'o}n de simulaciones con distintos valores de la constante, utilizando 5 etiquetas por variable de entrada.\relax }}{25}{figure.caption.21}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Singletons sin el condicionamiento (izquierda) y con el condicionamiento (derecha). Cada l\IeC {\'\i }nea de color representa el valor de los singleton (consecuente de las reglas) a lo largo de la ejecuci\IeC {\'o}n.\relax }}{27}{figure.caption.22}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Simulaci\IeC {\'o}n con el condicionamiento de singletons implementado.\relax }}{28}{figure.caption.23}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Simulaci\IeC {\'o}n con reestructuraci\IeC {\'o}n del c\IeC {\'o}digo de modificaci\IeC {\'o}n.\relax }}{28}{figure.caption.24}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Topolog\IeC {\'\i }a de un controlador, que utiliza funciones de pertenencia o etiquetas, con forma trapezoidal, igualmente distribuidas en un rango de [-20,20], con dos etiquetas (arriba izquierda), con tres etiquetas (arriba derecha), con cuatro etiquetas (abajo izquierda) y con cinco etiquetas (abajo derecha)\relax }}{29}{figure.caption.25}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Esquema de funcionamiento de aprendizaje global.\relax }}{30}{figure.caption.26}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Histograma del error de velocidad obtenido en un ciclo, con sus respectivas funciones de pertenencia antes de realizar el ajuste global (izquierda) y tras realizar el ajuste global (derecha).\relax }}{31}{figure.caption.27}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Histograma de la derivada del error en un ciclo, con sus respectivas funciones de pertenencia antes de realizar el ajuste global (izquierda) y tras el ajuste global (derecha).\relax }}{32}{figure.caption.28}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Aceleraci\IeC {\'o}n del veh\IeC {\'\i }culo.\relax }}{32}{figure.caption.29}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Esquema de funcionamiento de aprendizaje local luego de los ajustes.\relax }}{33}{figure.caption.30}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Aceleraci\IeC {\'o}n del veh\IeC {\'\i }culo, con el nuevo enfoque de modificaci\IeC {\'o}n de singletons.\relax }}{36}{figure.caption.31}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Valores del pedal al pasar de 40 km/h a 20 km/h.\relax }}{37}{figure.caption.32}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Valor del pedal (Izquierda) y aceleraci\IeC {\'o}n del autom\IeC {\'o}vil (derecha) en un tramo constante a 40 km/h.\relax }}{38}{figure.caption.33}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Aceleraci\IeC {\'o}n del autom\IeC {\'o}vil en un tramo constante a 40 km/h.\relax }}{38}{figure.caption.34}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Comportamiento de los singletons luego de aplicados todos los ajustes al sistema. Cada l\IeC {\'\i }nea de color representa el valor de un singletons a lo largo de la ejecuci\IeC {\'o}n.\relax }}{39}{figure.caption.35}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Velocidad del carro luego de aplicados todos los ajustes al sistema.\relax }}{39}{figure.caption.36}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Velocidad de los carros entre los 400 y 1000 segundos de la ejecuci\IeC {\'o}n de las pruebas\relax }}{43}{figure.caption.39}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Velocidad de los 30 carros que corrieron la simulaci\IeC {\'o}n.\relax }}{43}{figure.caption.40}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Velocidad del veh\IeC {\'\i }culo durante las pruebas a 15 km/h. Prueba 0 (arriba izquierda), Prueba 1 (arriba derecha), Prueba 2 (centro izquierda), Prueba 3 (centro derecha), Prueba 4 (abajo izquierda) y Prueba 5 (abajo derecha)\relax }}{46}{figure.caption.42}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Velocidad del autom\IeC {\'o}vil conducido de forma manual.\relax }}{47}{figure.caption.44}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Recorrido utilizado para la prueba con variaci\IeC {\'o}n en el perfil de velocidad.\relax }}{48}{figure.caption.45}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Velocidad del veh\IeC {\'\i }culo indicando los puntos de la pista por los que pasa el veh\IeC {\'\i }culo, durante la prueba con variaci\IeC {\'o}n en el perfil de velocidad. Primera mitad (izquierda), segunda mitad (derecha).\relax }}{49}{figure.caption.46}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Resultado de prueba cambiando el perfil de velocidad, utilizando controlador con tres variables de entrada\relax }}{51}{figure.caption.48}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Comparaci\IeC {\'o}n entre un veh\IeC {\'\i }culo conducido de forma manual, contra uno con conducci\IeC {\'o}n autom\IeC {\'a}tica, ambos a una velocidad constante a 5 km/h.\relax }}{52}{figure.caption.50}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Pista Alpine-1 de TORCS (izquierda). Desviaci\IeC {\'o}n lateral con respecto al tiempo (derecha).\relax }}{54}{figure.caption.51}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Trayectoria del veh\IeC {\'\i }culo durante las tres vueltas que se realizaron.\relax }}{55}{figure.caption.52}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Desviaci\IeC {\'o}n lateral entre el veh\IeC {\'\i }culo y el mapa.\relax }}{56}{figure.caption.53}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Plano esquem\IeC {\'a}tico de ZOCO\relax }}{67}{figure.caption.55}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Babieca y Rocinante\relax }}{68}{figure.caption.56}
+\contentsline {figure}{\numberline {D.2}{\ignorespaces Clavide\IeC {\~n}o y Platero\relax }}{69}{figure.caption.57}
+\contentsline {figure}{\numberline {D.3}{\ignorespaces Molinero\relax }}{69}{figure.caption.58}
+\contentsline {figure}{\numberline {D.4}{\ignorespaces Esquema correspondiente al sistema de aceleraci\IeC {\'o}n de Platero\relax }}{70}{figure.caption.59}
+\contentsline {figure}{\numberline {D.5}{\ignorespaces V\IeC {\'a}lvula selectora entre sistema manual-autom\IeC {\'a}tico (izquierda).Sistema de frenado electro hidr\IeC {\'a}ulico (derecha).\relax }}{71}{figure.caption.60}
+\contentsline {figure}{\numberline {D.6}{\ignorespaces Esquema correspondiente al sistema de freno de Platero\relax }}{72}{figure.caption.61}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {E.1}{\ignorespaces Dimensiones del carro.\relax }}{74}{figure.caption.62}
+\contentsline {figure}{\numberline {E.2}{\ignorespaces Discos de frenos.\relax }}{74}{figure.caption.62}
+\contentsline {figure}{\numberline {E.3}{\ignorespaces Configuraci\IeC {\'o}n general.\relax }}{74}{figure.caption.63}
+\contentsline {figure}{\numberline {E.4}{\ignorespaces Ruedas y cauchos.\relax }}{74}{figure.caption.63}

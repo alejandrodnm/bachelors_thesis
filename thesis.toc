@@ -1,0 +1,59 @@
+\select@language {spanish}
+\contentsline {chapter}{\'Indice general}{\es@scroman {vi}}{chapter*.3}
+\contentsline {chapter}{\'{I}ndice de cuadros}{\es@scroman {ix}}{chapter*.4}
+\contentsline {chapter}{\'{I}ndice de figuras}{\es@scroman {x}}{chapter*.5}
+\contentsline {chapter}{Lista de abreviaturas y s\IeC {\'\i }mbolos}{\es@scroman {xiii}}{section*.6}
+\contentsline {chapter}{Introducci\'on}{1}{chapter*.8}
+\contentsline {chapter}{\numberline {1}Entorno institucional}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Centro de Autom\IeC {\'a}tica y Rob\IeC {\'o}tica}{4}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Objetivos del Centro de Autom\IeC {\'a}tica y Rob\IeC {\'o}tica}{5}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Grupo AUTOPIA}{5}{subsection.1.1.2}
+\contentsline {chapter}{\numberline {2}Marco te\IeC {\'o}rico}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}L\IeC {\'o}gica difusa}{6}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Conjuntos difusos}{7}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Controladores difusos}{8}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Fuzzificador}{9}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Mecanismo de inferencia difusa}{9}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Reglas de control difuso}{10}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Defuzzificador}{10}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Sistemas difusos evolutivos}{11}{section.2.3}
+\contentsline {section}{\numberline {2.4}ORBEX}{11}{section.2.4}
+\contentsline {section}{\numberline {2.5}ZOCO}{14}{section.2.5}
+\contentsline {section}{\numberline {2.6}Veh\IeC {\'\i }culos automatizados}{15}{section.2.6}
+\contentsline {section}{\numberline {2.7}TORCS}{17}{section.2.7}
+\contentsline {chapter}{\numberline {3}Descripci\IeC {\'o}n y an\IeC {\'a}lisis del dise\IeC {\~n}o}{18}{chapter.3}
+\contentsline {section}{\numberline {3.1}Fase de an\IeC {\'a}lisis}{18}{section.3.1}
+\contentsline {section}{\numberline {3.2}Dise\~no}{19}{section.3.2}
+\contentsline {section}{\numberline {3.3}Implementaci\IeC {\'o}n}{19}{section.3.3}
+\contentsline {section}{\numberline {3.4}Pruebas}{20}{section.3.4}
+\contentsline {chapter}{\numberline {4}Desarrollo de la soluci\IeC {\'o}n}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Acondicionamiento}{21}{section.4.1}
+\contentsline {section}{\numberline {4.2}Aprendizaje local}{23}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Elecci\IeC {\'o}n de la constante de normalizaci\IeC {\'o}n}{25}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Condicionamiento de la modificaci\IeC {\'o}n de singletons}{26}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Aprendizaje global}{29}{section.4.3}
+\contentsline {section}{\numberline {4.4}Ajuste de la aceleraci\IeC {\'o}n}{32}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Ajuste a la modificaci\IeC {\'o}n de singletons}{33}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Ajustes del pedal}{36}{subsection.4.4.2}
+\contentsline {chapter}{\numberline {5}Pruebas}{40}{chapter.5}
+\contentsline {section}{\numberline {5.1}Pruebas realizadas con TORCS}{41}{section.5.1}
+\contentsline {section}{\numberline {5.2}Pruebas realizadas con veh\IeC {\'\i }culo automatizado}{43}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Perfil constante a 15 km/h}{44}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Variando el perfil a lo largo de la ejecuci\IeC {\'o}n}{48}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Comparaci\IeC {\'o}n entre conducci\IeC {\'o}n autom\IeC {\'a}tica y conducto humano a una velocidad constante de 5 km/h}{52}{subsection.5.2.3}
+\contentsline {chapter}{\numberline {6}Adaptaci\IeC {\'o}n al control autom\IeC {\'a}tico del volante}{53}{chapter.6}
+\contentsline {section}{\numberline {6.1}Pruebas realizadas con TORCS}{54}{section.6.1}
+\contentsline {section}{\numberline {6.2}Pruebas realizadas con veh\IeC {\'\i }culo automatizado}{55}{section.6.2}
+\contentsline {chapter}{\numberline {7}Conclusiones y recomendaciones}{57}{chapter.7}
+\contentsline {chapter}{Bibliograf\'{\i }a}{59}{chapter*.54}
+\contentsline {chapter}{\numberline {A}CSIC}{61}{appendix.Alph1}
+\contentsline {chapter}{\numberline {B}ORBEX}{63}{appendix.Alph2}
+\contentsline {section}{\numberline {B.1}Dise\IeC {\~n}o de controlador}{63}{section.Alph2.1}
+\contentsline {section}{\numberline {B.2}Definici\IeC {\'o}n formal de la gram\IeC {\'a}tica}{64}{section.Alph2.2}
+\contentsline {section}{\numberline {B.3}Controlador}{65}{section.Alph2.3}
+\contentsline {chapter}{\numberline {C}Zona de conducci\IeC {\'o}n}{66}{appendix.Alph3}
+\contentsline {chapter}{\numberline {D}Veh\IeC {\'\i }culos automatizados}{68}{appendix.Alph4}
+\contentsline {section}{\numberline {D.1}Sistema de navegaci\IeC {\'o}n de Platero}{69}{section.Alph4.1}
+\contentsline {section}{\numberline {D.2}Sistema de aceleraci\IeC {\'o}n y freno de Platero}{70}{section.Alph4.2}
+\contentsline {chapter}{\numberline {E}Pruebas simuladas con TORCS}{73}{appendix.Alph5}
+\contentsline {section}{\numberline {E.1}Atributos de los veh\IeC {\'\i }culos de TORCS}{73}{section.Alph5.1}
